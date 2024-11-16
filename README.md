@@ -16,25 +16,21 @@ Climate change is the single biggest health threat facing humanity that will aff
 
 We need to be able to integrate a variety of data and perform a mix of analyses to tackle a range of health and disease risks and outcomes. Our work is centered around three main facets:
 
-    understanding the ecology of disease/health across space and time (host-pathogen-environment interactions in dynamically changing environments) and what this means for health and disease outcomes;
-    how to respond, and;
-    what to communicate and in what format.
+    -understanding the ecology of disease/health across space and time (host-pathogen-environment interactions in dynamically changing environments) and what this means for health and disease outcomes;
+    -how to respond, and;
+    -what to communicate and in what format.
 
 We examine how changes in environments such as climate drive health and disease dynamics as it relates to
 
-    vector-borne diseases (e.g. mosquito-vectored diseases such as dengue and malaria; tick-vectored diseases);
-    disaster epidemiology (risks pre, during and post weather risk events);
-    extreme weather (e.g. heat, floods);
-    food security (e.g. effect of frost-freeze events on the environment in intense agricultural cropping systems; when and where biopesticides can be used for controling agricultural pests);
-    accessibility (e.g. seasonal effects of access to healthcare and the use of different modes of transport to access healthcare);
-    mobility (e.g. climate-drivers and how they contribute to mobility and disease circulation and transmission);
-    vulnerabilities of different populations (e.g. due to heatwaves, floods, accessibility);
-    communication (e.g. data structuring for effective communication; what is being communicated)
-    mental health & well-being (e.g. climate risk vulnerability & risk resilience)
+    -vector-borne diseases (e.g. mosquito-vectored diseases such as dengue and malaria; tick-vectored diseases);
+    -disaster epidemiology (risks pre, during and post weather risk events);
+    -extreme weather (e.g. heat, floods);
+    -food security (e.g. effect of frost-freeze events on the environment in intense agricultural cropping systems; when and where biopesticides can be used for controling agricultural pests);
+    -accessibility (e.g. seasonal effects of access to healthcare and the use of different modes of transport to access healthcare);
+    -mobility (e.g. climate-drivers and how they contribute to mobility and disease circulation and transmission);
+    -vulnerabilities of different populations (e.g. due to heatwaves, floods, accessibility);
+    -communication (e.g. data structuring for effective communication; what is being communicated)
+    -mental health & well-being (e.g. climate risk vulnerability & risk resilience)
     etc...
-
-
-
-<script src="https://gist.github.com/jb2018/111ff59aee897989c6db6fa44fa5421c"></script>
 
 
