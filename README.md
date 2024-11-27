@@ -20,12 +20,15 @@ Climate change is the single biggest health threat facing humanity that will aff
 
 Geospatial information and technologies provide the necessary analytical tools useful for tackling a range of health and disease risks and outcomes. 
 
+
 Our work is centered around three main facets:
+
     -understanding the ecology of disease/health across space and time (host-pathogen-environment interactions in dynamically changing environments) and what this means for health and disease outcomes;
     -how to respond, and;
     -what to communicate and in what format.
 
-We examine how changes in environments such as climate and disasters drive health and disease dynamics as it relates to
+We examine how changes in environments such as climate and disasters drive health and disease dynamics as it relates to:
+
     -vector-borne diseases (e.g. mosquito-vectored diseases such as dengue and malaria; tick-vectored diseases);
     -disaster epidemiology (health risks before, during and after a disaster risk events);
     -Climate health associated with extreme weather (e.g. heat, floods);
