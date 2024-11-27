@@ -6,7 +6,7 @@ Learn about geohealth, geography and health.
 
 Geohealth brings together giscience and health so that we can better understand factors influencing the spatial patterns of health or disease occurrences. It is about understanding the where and when, why, and who may be affected so that we can figure out how to respond at a local, national or global level. Health and disease is complex and requires a dynamic approach to understanding the drivers behind the patterns that we see. Geo-spatial technologies and GIScience play a vital role in visualizing where and when diseases occur in space and time, providing context and helping us understand why they may be prevalent, who may be affected and how to address the problem potentially. We are a collaborative research and learning environment that enables us to address various health and disease issues all over the world.
 
-GeoHealth for Planetary Health, Global Health, Climate Health, Disaster Health, Public Health, One Health?
+### GeoHealth for Planetary Health, Global Health, Climate Health, Disaster Health, Public Health, One Health?
 
     -60% of all human infectious diseases are transmitted from animals and microbes of animal origin. These ‘spill over’ due to increasing contact among wildlife-livestock-humans often driven by exponentially growing anthropogenic changes caused by human activities (e.g. changes in land use, changes in climate, changes in food security, changes in politics and changes in infrastructures (e.g. digitalisation, transportation networks, water & sanitation, etc.)) and the impacts of these activities on the environment. 
     
