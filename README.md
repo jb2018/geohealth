@@ -8,13 +8,13 @@ Geohealth brings together giscience and health so that we can better understand 
 
 ### GeoHealth for Planetary Health, Global Health, Climate Health, Disaster Health, Public Health, One Health?
 
-    -60% of all human infectious diseases are transmitted from animals and microbes of animal origin. These ‘spill over’ due to increasing contact among wildlife-livestock-humans often driven by exponentially growing anthropogenic changes caused by human activities (e.g. changes in land use, changes in climate, changes in food security, changes in politics and changes in infrastructures (e.g. digitalisation, transportation networks, water & sanitation, etc.)) and the impacts of these activities on the environment. 
-    
-    -17% of all infectious diseases are caused by vector-borne diseases resulting in more than 1 billion cases and more than 1 million deaths each year.
+*60% of all human infectious diseases are transmitted from animals and microbes of animal origin. These ‘spill over’ due to increasing contact among wildlife-livestock-humans often driven by exponentially growing anthropogenic changes caused by human activities (e.g. changes in land use, changes in climate, changes in food security, changes in politics and changes in infrastructures (e.g. digitalisation, transportation networks, water & sanitation, etc.)) and the impacts of these activities on the environment. 
 
-    -Can you imagine walking 26km in labour? A woman dies every 2 minutes from prevatable causes during pregancy and childbirth. With 400 million people lacking basic health care, 1.6 billion living in fragile environments with little to no access to health services and more than 15 million people waiting HIV treatment, we need to address access to health services and care.
+*17% of all infectious diseases are caused by vector-borne diseases resulting in more than 1 billion cases and more than 1 million deaths each year.
 
-    -Disasters - Each year more than 350 million people are affected by disasters resulting in over 2.6 billion people affected in the last decade. 
+*Can you imagine walking 26km in labour? A woman dies every 2 minutes from prevatable causes during pregancy and childbirth. With 400 million people lacking basic health care, 1.6 billion living in fragile environments with little to no access to health services and more than 15 million people waiting HIV treatment, we need to address access to health services and care.
+
+*Disasters - Each year more than 350 million people are affected by disasters resulting in over 2.6 billion people affected in the last decade. 
 
 Climate change is the single biggest health threat facing humanity that will affect the health and well-being of the population. Now more than ever we need to understand what changes are taking place spatially and temporally, locally and globally. Many health changes are complex crossing social-ecological systems (SES) that are comprised of many components distributed across scales, often compounded by different socio-economic and environmental drivers, many operating non-linearly. The circulation, transmission and evolution of diseases are driven by a range of factors (environmental factors, host-related factors and the pathogen itself) and how they interact in space and time. Geographic Information Science (GIScience), an integrative and technical science is well suited to address a range of local and global health challenges that cross social-ecological systems.
 
