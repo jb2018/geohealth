@@ -37,4 +37,4 @@ We examine how changes in environments such as climate and disasters drive healt
     -mental health & well-being (e.g. climate risk vulnerability & risk resilience in the short-term and long-term)
     etc...
 
-
+Much of this is captured in Blanford (2024) Geographic Information, Geospatial Technologies and Spatial Data Science for Health <https://www.routledge.com/Geographic-Information-Geospatial-Technologies-and-Spatial-Data-Science-for-Health/Blanford/p/book/9781032563565?srsltid=AfmBOorlxBFJvFkUqBWYfTTJwPgJOht5dYUV1tHGzHlWks1KP1bbLtEu>. 
